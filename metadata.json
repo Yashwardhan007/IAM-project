@@ -1,0 +1,5 @@
+{
+  "name": "IAM Role Explorer",
+  "description": "An interactive Identity & Access Management (IAM) dashboard for exploring user roles, permissions, and the principle of least privilege in an IT organization.",
+  "requestFramePermissions": []
+}
